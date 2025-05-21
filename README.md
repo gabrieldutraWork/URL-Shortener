@@ -34,7 +34,7 @@ Obs.: Os serviços e portas podem variar conforme definidos no docker-compose.ym
 
   - Python / FastAPI ou Node.js / Express (dependendo da stack real)
 
-  - PostgreSQL ou MongoDB (dependendo do backend)
+  - PostgreSQL
 
   - Docker e Docker Compose
 
